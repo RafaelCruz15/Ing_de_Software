@@ -1,0 +1,181 @@
+#container1{
+	font-family: Lato;
+	background-color: #13124F;
+	height: 205px;
+	color: white;
+	padding-top: 8px;
+	height: 270px;
+}
+
+#hello{
+	font-size: 71px;
+	padding-left: 12px;
+}
+
+#welcome{
+	font-size: 21px;	
+	padding-left: 12px;
+}
+
+#boton1{
+	background-color: #F61067;
+	color: white;
+	border: none;
+	font-size: 13px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+#botonL1{
+	padding-left: 12px;
+	padding-top: 18px;
+}
+
+#container2{
+	padding-top: 42px;
+	padding-left: 28px;
+}
+
+#heading{
+	font-family: Lato;
+	font-size: 39px;
+}
+
+#cupcake{
+	font-size: 15px;
+	padding-top: 24px;
+}
+
+#jelly{
+	font-size: 15px;
+}
+
+#liquroice{
+	font-size: 15px;
+	padding-bottom: 39px;
+}
+
+#video{
+	height: 500px;
+    width: 100%;
+}
+
+#boton2{
+	background-color: #F61067;
+	color: white;
+	border: none;
+	font-size: 14px;
+	width: 100%;
+	height: 35px;
+}
+
+#tres{
+	background: blue;
+	-webkit-border-radius: 1em;
+	line-height: 0.9em;
+}
+
+#container3{
+	padding-top: 12px;
+	background-color: #9090A5;
+	height: 51px;
+	color: white;
+	font-size: 18px;
+}
+
+#container3a{
+	padding-top: 8px;
+}
+
+#container4{
+	padding-top: 5px;	
+}
+
+#container5{
+	padding-top: 14px;
+	background-color: #13124F;
+	color: white;
+	font-size: 15px;
+	height: 189px;
+}
+
+#container6{
+	padding-top: 3px;
+	background: #9090A5;
+	padding-bottom: 10px;
+	height: 37px;
+	border: none;
+}
+
+#espacio1{
+	height: 4px;
+}
+
+#input{
+	background-color: #1B1B6C;
+	border: none;
+}
+
+#espacio2{
+	height: 1px;
+}
+
+#container7{
+	padding-top: 1px;
+	background: #352BA5;
+	padding-bottom: 10px;
+	height: 34px;
+	border: none;
+	color: white;
+}
+
+#StarTrek{
+	font-size: 10px;
+	color: white;
+}
+
+#container8{
+	padding-top: 14px;
+	background-color: white;
+	color: black;
+	font-size: 15px;
+	height: 158px;
+	border: solid 2px #F3F3F3;
+}
+
+#barra1{
+	background-color: #F61067;
+	height: 9px;
+}
+
+#barra2{
+	background-color: #2AD392;
+}
+
+#espacio3{
+	padding-top: 12px;
+}
+
+#espacio4{
+	padding-top: 22px;	
+}
+
+#boton3{
+	background-color: #F61067;
+	color: white;
+	border: none;
+	font-size: 14px;
+	width: 45%;
+	height: 35px;
+}
+
+#boton4{
+	background-color: white;
+	color: #2AD392;
+	border: solid 2px #2AD392;
+	font-size: 14px;
+	width: 45%;
+	height: 35px;
+}
